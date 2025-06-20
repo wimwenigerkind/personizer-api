@@ -1,1 +1,1 @@
-# personizer-api
+# Readonly Personizer Rest API
